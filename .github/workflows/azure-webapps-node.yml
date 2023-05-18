@@ -38,7 +38,7 @@ jobs:
        id: hello
        uses: ashley-taylor/regex-property-action@v1.3
        with:
-         value: "My name is , Sowmya!"
+         value: "My name is ,Sowmya!"
          regex: "world"
          flags: "" # Optional, defaults to "g"
          replacement: "Sowmyashree"
