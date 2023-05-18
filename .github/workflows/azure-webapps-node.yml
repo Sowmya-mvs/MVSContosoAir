@@ -39,7 +39,7 @@ jobs:
        uses: ashley-taylor/regex-property-action@v1.3
        with:
          value: "My name is ,Sowmya!"
-         regex: "world"
+         regex: "Sowmya"
          flags: "" # Optional, defaults to "g"
          replacement: "Sowmyashree"
      - name: Print Result
